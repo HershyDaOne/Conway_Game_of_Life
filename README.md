@@ -9,4 +9,5 @@ There are also many different patterns and shapes such as gliders and blinkers.
 To use this code, there is a menu where you can input single cells and the two shapes stated above. 
 You can use the single cells to mae your own custom shapes.
 In order to see each generation, you have to keep pressing the 'enter button'.
-This code was written by humans and not AI or any sort of robot.
+This game is written in such a way that it avoidscomplex stuff and uses the simplest code to promote understanding for beginning coders.
+This code was written by one person and no AI tools.
