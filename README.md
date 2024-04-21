@@ -11,5 +11,7 @@ You can use the single cells to make your own custom shapes.
 In order to see each generation, you have to keep pressing the 'enter button'.
 The grid is a 20x20 but can easily be modified by replacing the value of the nested loops.
 This game is written in such a way that it avoids complex stuff and uses the simplest code to promote understanding for beginning coders.
+The cells which are alive are colored in blue so a player can see it better.
+To make it colored, we imported Fore from colorama. You can easily change the color in the function 'printRow'.
 This code was written by one person and no AI tools.
 Enjoy the game but try to make it on your own before looking at the code.
